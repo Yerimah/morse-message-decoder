@@ -23,6 +23,8 @@ ruby main.rb
 
 - GitHub: [@farouqdaif1](https://github.com/farouqdaif1)
 - LinkedIn: [@Farouq Daif ](https://www.linkedin.com/in/farouqdaif/)
+
+
 👤 **Daniel Yerimah**
 - GitHub: [@Daniel Yerimah](https://github.com/yerimah)
 - Twitter: [@iamdeewyne](https://twitter.com/iamdeewyne)
